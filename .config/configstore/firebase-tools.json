@@ -1,0 +1,44 @@
+{
+	"analytics-uuid": "3905f1cd-aef7-49ff-b3f1-4908517e0352",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1634667631415
+	},
+	"usage": false,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "117872917140097334060",
+		"email": "jackeburton97@gmail.com",
+		"email_verified": true,
+		"at_hash": "DjYzPKdTq9kxtjEfaqVH6w",
+		"iat": 1634576758,
+		"exp": 1634580358
+	},
+	"tokens": {
+		"expires_at": 1634671951125,
+		"refresh_token": "1//03v7j37znvHvcCgYIARAAGAMSNwF-L9Irh2lyU9g2K6sS7lgoVC0G1LxvM42YlDGB9QGnLHsohbNUePmYPemokVOTi7meAGqOeJ4",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0ARrdaM9HH24cjiOgEAl98lIheBCEmaEWT5RwyqCj6TwOxeQsdsFe7GgHx7Ham8ZCkl27NALluTVgPzwK5rWupTR1a6y7g2He3vc-pY6FoCA4TZgt8rS4wQy8ABU_rt0Kq5384LMyprtD5ylqicslWmkou95fS1Qwz6LUzg",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImFkZDhjMGVlNjIzOTU0NGFmNTNmOTM3MTJhNTdiMmUyNmY5NDMzNTIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE3ODcyOTE3MTQwMDk3MzM0MDYwIiwiZW1haWwiOiJqYWNrZWJ1cnRvbjk3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoibllINHJhM3lFaXphcWpZWldPcndudyIsImlhdCI6MTYzNDY2ODM1MiwiZXhwIjoxNjM0NjcxOTUyfQ.RVejzc4q2qszm7pl10iJa6rQ2fi31fMnjPYZ6sGXCiwFdKN1sf7XUIsQBbPDC7a01GwcLtHsmmHndBRUFy33Z1RfrA84J2az8A4lIkwp5pvHwSgQPGfbdZXoD8OxpyNQHDx1CU3GdLLUzRfIau5JruKKaA8aBTACsBryWfT0CSTdtdPWwa0mDHPbbMIpK9e1Li9yeM1XrcS1hir3DC_ggpnAuBRH7B39YtJIyv2I2N7pUyDLVndxdFCKIZwX_17HZTNyqzDmwzbbGrEqsXBo22xWRvnFJtkxskbBeoi2lhnMfEcslQSXQrynjLZnk1cxSbU0Vx2PhLUBWhjcbAnNfw"
+	},
+	"activeProjects": {
+		"/Users/jackburton/Documents/prog/site": "tinysite-e8439"
+	}
+}

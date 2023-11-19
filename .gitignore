@@ -1,0 +1,11 @@
+# Not one for comments to myself but maybe one day I will need this one ;)
+#
+# ------------------------------------------------------------------------
+
+# ignores EVERYTHING
+*
+
+# EXCEPT these
+
+!/.congig/
+!.gitignore
